@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "cover_photo": "https://i.postimg.cc/MpsrjrrT/1.jpg",
+        "author_img": "https://i.postimg.cc/dt59WZRN/boy1.png",
+        "author_name": "John Doe",
+        "posted_date": "2024-08-01",
+        "reading_time": 5,
+        "hashtags": [
+            "#tech",
+            "#innovation"
+        ],
+        "title": "The Future of Technology"
+    },
+    {
+        "id": 2,
+        "cover_photo": "https://i.postimg.cc/SQWTGKtH/2.png",
+        "author_img": "https://i.postimg.cc/3x6FhMcg/boy2.jpg",
+        "author_name": "Jane Smith",
+        "posted_date": "2024-08-05",
+        "reading_time": 7,
+        "hashtags": [
+            "#webdevelopment",
+            "#coding"
+        ],
+        "title": "Mastering Web Development"
+    },
+    {
+        "id": 3,
+        "cover_photo": "https://i.postimg.cc/13zvPr5Z/3.png",
+        "author_img": "https://i.postimg.cc/zBwCTyXj/girl1.jpg",
+        "author_name": "Michael Brown",
+        "posted_date": "2024-08-10",
+        "reading_time": 6,
+        "hashtags": [
+            "#engineering",
+            "#design"
+        ],
+        "title": "Engineering Design Principles"
+    },
+    {
+        "id": 4,
+        "cover_photo": "https://i.postimg.cc/k56wRMb1/4.jpg",
+        "author_img": "https://i.postimg.cc/vTQWhG4d/girl2.jpg",
+        "author_name": "Emily Davis",
+        "posted_date": "2024-08-12",
+        "reading_time": 4,
+        "hashtags": [
+            "#AI",
+            "#machinelearning"
+        ],
+        "title": "AI and Machine Learning Trends"
+    }
+]
